@@ -1,4 +1,4 @@
-# My Eye Candy Entry Page
+# WPD Eye Candy Entry Page
 
 Entry page demonstrating the application of CSS3 and JavaScript. Created for Web Page Development course as final project in spring 2017.
 
